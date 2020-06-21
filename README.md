@@ -116,7 +116,7 @@ In the future, I’ll reintroduce the below advice as part of the sections above
 # Thanks!
 These are most of the websites, links, and advice that have helped me on my journey to becoming an engineer. Make the most out of these resources so you can maximize your chances of becoming a professional software engineer. Thanks for reading, and you can find all of my social media links here:
 
-- [LinkedIn]([https://www.linkedin.com/in/erick-dolores/](https://www.linkedin.com/in/erick-dolores/))
+- [LinkedIn](https://www.linkedin.com/in/erick-dolores/)
 - [Website](http://www.erickdolores.com.s3-website-us-east-1.amazonaws.com/)
 - [Github](https://github.com/edolores)
 - [Instagram](https://www.instagram.com/erickdoloress/)
