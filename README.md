@@ -47,13 +47,13 @@ A big question you may ask yourself is where do I even apply. Sure, you could lo
 - **Handshake** - Handshake markets themselves as a job board entirely dedicated to students. While growing, the company has gathered an impressive number of job postings.
 - **Jumpstart** - Jumpstart is a similar platform to Handshake but offers a student forum feature all on the same website. The forums are a space for students to post questions and engage in conversation with other tech students. Jumpstart even has a section for virtual career webinars.
 ## How it Works
-Let's review how the application process typically works. You, the applicant, submit an application to the company for it to be reviewed. If the company likes your application, they will invite you to interview. We'll take a closer look at interviews in a later section. If all goes well, the company will reach out to you with their offer to join the company! In this section, I want to focus on two common ways your application is reviewed.
+Let's review how the application process typically works. You, the applicant, submit an application to the company for it to be reviewed. If the company likes your application, they will invite you to interview. We'll take a closer look at interviews in a later section. If all goes well, the company will reach out to you with their offer to join the company! In this section, I want to focus on two common ways your application is reviewed. Here's some [FAQ's](https://www.reddit.com/r/cscareerquestions/comments/4qurgo/in_which_i_attempt_to_answer_like_90_of_a_normal/) that will cover some other niche questions you may have.
 ### ATS
 ATS stands for Applicant Tracking System. An ATS helps make a recruiter's job easier by pre-filtering resumes before sending them to a human recruiter. These systems scan an applicants resume and look for keywords. If a resume has an acceptable number of keywords and skill sets, that resume moves on to be reviewed by a human recruiter. Thus, the wording in a resume or application can make a huge difference when moving along the application process. Just make sure you don't stuff your resume with keywords to the point where it's nonsensical. It's worth noting that ATS' do more than filter resumes but those extra features are logistical benefits to the recruiter that don't affect how your application is evaluated. 
 ### Human Reviewers
 While some companies use a combination of ATS and human reviewers, other companies solely use human reviewers. This works to your benefit because the reviewer has the opportunity to review your application regardless of the number of buzzwords on your resume.
 ##  Building a Resume
-We mentioned resumes in the previous section, now let's take a look at some topics that people are frequently curious about. To start off, be aware that experience in the industry goes above all else when applying to software engineering roles.
+We mentioned resumes in the previous section, now let's take a look at some topics that people are frequently curious about when it comes to creating your resume. To start off, be aware that experience in the industry goes above all else when applying to software engineering roles.
 ### GPA
 Unless you plan on going to grad schools, GPAs don't matter as much as you'd think they do. Companies evaluate a candidate based on their ability to do the job. While GPA offers a good look at how well a student can absorb knowledge, projects and experience are better indicators of how passionate a student is for building software. As such, most companies won't even ask for you GPA at any point along the application process. That being said, some companies do use GPA as a preliminary filter so staying above a 3.0 or 3.2 is a safe bet.
 ### Personal Projects
@@ -63,21 +63,62 @@ Looking up tutorials on YouTube is also a great way to figure out how things wor
 ### Cold Emails
 A cold email is an email that's sent to a recruiter that you don't know. Done right, these can be an effective way to get your foot in the door at a company. [Nick Singh](https://www.linkedin.com/in/nipun-singh/) shared with me [this](https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/fb9665b4-5a23-4d17-ab6e-64287cb66ad8/Cold_Email_Tips_To_Land_Your_Dream_Job.pdf) guide to sending cold emails. I've seen cold emails go a long way for other students trying to get into their dream company. Don't be scared to send these emails. At the worst, you'll receive a rejection via email. At best, you've got your foot in the door and can being interviewing!
 ### Digital Presence
-Digital presence is centered around how easily accessible you and your accomplishments are on the internet. When people search your name, a digital presence makes it easier for someone to get to know you. Various platforms can be great for providing more information on who you are. For example, I use [LinkedIn](https://www.linkedin.com/in/erick-dolores/) to make my background and experience more available to the public. Recruiters can find out where I attend school, where I've worked, and what my objectives are. [Personal websites](http://www.erickdolores.com.s3-website-us-east-1.amazonaws.com/) are also great for professional and personal reasons. While they may not be a deal breaker for recruiters, a personal website can offer an intimate/personal perspective on who you are as a person. Therefore, websites cam expand your network by allowing users to reach out to you if they liked what they saw on your site. [Github](https://github.com/edolores)
-is a code hosting service that allows recruiters to actually dive into your code and see physical proof of your passion. Github accounts are always a plus because they provide insight into how you write code. 
+Digital presence is centered around how easily accessible you and your accomplishments are on the internet. When people search your name, a digital presence makes it easier for someone to get to know you. Various platforms can be great for providing more information on who you are. For example, I use [LinkedIn](https://www.linkedin.com/in/erick-dolores/) to make my background and experience more available to the public. Recruiters can find out where I attend school, where I've worked, and what my objectives are. 
+
+[Personal websites](http://www.erickdolores.com.s3-website-us-east-1.amazonaws.com/) are also great for professional and personal reasons. While they may not be a deal breaker for recruiters, a personal website can offer an intimate/personal perspective on who you are as a person. Therefore, websites cam expand your network by allowing users to reach out to you if they liked what they saw on your site. 
+
+[Github](https://github.com/edolores) is a code hosting service that allows recruiters to actually dive into your code and see physical proof of your passion. Github accounts are always a plus because they provide insight into how you write code. 
 ### Cover Letters
-Unless you're applying for a financial firm or old-fashioned company, cover letters aren't a necessity. Recruiters have to sift through thousands of resumes and applications to fill up only a couple of spots. Cover letters create more work for a recruiter and aren't always appreciated. It's best to focus on your resume and insure that it effectively communicates your interests and your skill set.
+Unless you're applying for a financial firm or old-fashioned company, cover letters aren't necessary. Recruiters have to sift through thousands of resumes and applications to fill up only a couple of spots. Cover letters create more work for a recruiter and aren't always appreciated. It's best to focus on your resume and insure that it effectively communicates your interests and your skill set.
 ### Getting Started
-Latex template, reddit forum [https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/c3839b1d-e372-4b2c-a57c-f2a7410589f7/36_Software_Engineering_Resume_Tips.pdf](https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/c3839b1d-e372-4b2c-a57c-f2a7410589f7/36_Software_Engineering_Resume_Tips.pdf)
+Now that you're aware of the above, go ahead and get started building your own resume! If you don't know how you should format your resume, go ahead and use a [LaTeX template](https://www.overleaf.com/gallery/tagged/cv). LaTeX will stylize your documents based on your text input. Since everything is in plain text, it shouldn't be too hard to figure out if you're new to LaTeX. Here's my personal favorite [template](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm).
+> **Note:** If you want to use a special character like "&", you'll need to type ''\&".
+
+The subreddit [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) is also a great resource for perfecting your resume. They frequently post threads where resumes can be reviewed and have their own guides on [how to build a resume](https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes).
+
+Finally, [Nick Singh](https://www.linkedin.com/in/nipun-singh/) sent me some tips on building a [resume for software engineers](https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/c3839b1d-e372-4b2c-a57c-f2a7410589f7/36_Software_Engineering_Resume_Tips.pdf).
 # Interviewing
 The number of interviews and their contents varies from company to company. Interviews may require you to solve coding questions within an hour-long timeframe. Others will be entirely behavioral or will have you complete an application beforehand. Sometimes the company will pay for you to fly out to a new city to interview in-person! Here are the two main categories for interviewing.
 ## Behavioral
+Behavioral interviewing involves the recruiter asking the candidate questions in order to gauge the candidate’s culture fit and communication skills. These interviews often take the form of a short phone call. For these interviews, it’s best to do a Google search on what kinds of questions are asked during behavioral interviews. In behavioral interviews, you’ll want to communicate your passion for software engineering as much as you can. This can be done through the tone in your voice and your responses to an interviewer’s question. A good resource for company-specific questions is [Glassdoor](https://www.glassdoor.com/index.htm), where folks anonymously publish company specific details for various positions. You can also answer any behavioral questions you have by searching on r/cscareerquestions like [this](https://www.reddit.com/r/cscareerquestions/search/?q=behavioral%20interview&restrict_sr=1).
 ## Technical
-ctci, interviewing.io, leetcode 
+Of course, most interview processes won't want to simply evaluate your culture fit. This is where technical interviews come into play. Technical interviews will typically focus on your data structures and algorithms knowledge. You will likely be interviewed by someone and asked to complete a coding question in real-time. 
+Since most technical interview formats are similar, there's plenty of resources available so you're best prepared.
+
+[Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) is a popular book that helps you understand how various problems should be solved and where different data structures/algorithms can be useful. [LeetCode](https://leetcode.com/) is a site where you can endlessly practice coding questions that are asked by dozens of popular tech companies. [Interviewing.io](https://interviewing.io/) is a platform where you can practice coding questions in real-time with other people using a mock interview system.
 # Freshman and Sophomores
+If you're a freshman or sophomore, here are some programs and internships that are particularly open to accepting freshman and sophomores. 
 ### Programs
-uber, google, facebook, ea, code2040, new technologists
+- **Code2040** - Code2040 is an organization that hosts the [Fellows Program](http://www.code2040.org/fellows-program), which is a program geared towards helping Black and Latinx students find tech internships at top companies.
+- **New Technologists** - The [New Technologists](https://newtechnologists.com/) program provides students with an opportunity to work on product development with Microsoft engineers.
+- **Google SPS** - [SPS](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) is an invite-only program meant to train students in web development. Students who have applied to Google in the past are eligible to be invited to this program.  
 ### Internships
-# Facing Rejections
-# Communities to Join
-cscareeerquestions, jumpstart, csmajors
+- **Google STEP** - Google's freshman and sophomore internship program.
+- **UberSTAR** - This is Uber's internship meant for freshman and sophomores.
+- **Facebook University** - Facebook's internship program for freshman and sophomores. Note: You'll need a high school transcript for the application.
+- **EA Pathfinders** - Electronic Arts' freshman and sophomore internship program. You can typically be a part of this program by applying to EA's regular internship and being redirected to a Pathfinders position.
+# FACING REJECTIONS
+A substantial portion of landing an internship is luck, despite how prepared you are. Knowing this, you should maximize your luck by applying to as many internships as you can. During my freshman year, I submitted ~110 applications and got lucky landing my first internship with Electronic Arts. That year, I only heard back from 3 companies. My sophomore year, I applied to ~200 companies, heard back from 21 companies, and landed 2 offers. While these numbers are scary, I didn’t have the knowledge to perfect my applications and resume prior to applying to all of those internships. Using the advice I laid out, you’ll have better luck than I did. Regardless, you will face multiple rejections so make sure you don’t get discouraged by any of them :smile:!
+# SITES TO VISIT
+Here’s some online communities you can hang out that can give you some insight into what other students are doing and the current climate of the tech industry.
+-   **r/cscareerquestions** - [A subreddit](https://www.reddit.com/r/cscareerquestions/) where engineers/students talk about their experiences and advice for tech careers.
+-   **r/csmajors** - [A subreddit](https://www.reddit.com/r/csMajors/) where mostly students hang out to ask questions about CS in college and landing a job.
+-   **Jumpstart** - [A student-based forum](https://jumpstart.me/) where discussion takes place regarding the tech industry.
+-   **Glassdoor** - [A website](https://www.glassdoor.com/index.htm) that posts specific salary info and interview questions for different companies.
+-   **Levels.fyi** - [A website](https://www.levels.fyi/) that provides info on position-specific salaries for various companies.
+# FINAL ADVICE
+
+In the future, I’ll reintroduce the below advice as part of the sections above.
+
+- Make sure to sign up for LinkedIn! Connect with as many recruiters, students, and engineers as you can. If you have the right connections, LinkedIn does a great job of sharing information and advice on internships and the tech industry. Additionally, the more active you are on LinkedIn, the higher you are on recruiter searches for new candidates!
+- Don’t be embarrassed to apply for internships with startups or obscure companies. Experience is experience! If you can, work as a TA for a computer science course at your school! TA positions always look great on resumes!
+- Asking friends/colleagues for help can go a long way! If you know someone who has done internships at a company you’re interested in, reach out to them to ask about what they did to get their foot in the door at that company.
+
+# Thanks!
+These are most of the websites, links, and advice that have helped me on my journey to becoming an engineer. Make the most out of these resources so you can maximize your chances of becoming a professional software engineer. Thanks for reading, and you can find all of my social media links here:
+
+- [LinkedIn]([https://www.linkedin.com/in/erick-dolores/](https://www.linkedin.com/in/erick-dolores/))
+- [Website](http://www.erickdolores.com.s3-website-us-east-1.amazonaws.com/)
+- [Github](https://github.com/edolores)
+- [Instagram](https://www.instagram.com/erickdoloress/)
+- erickdoloress@gmail.com
