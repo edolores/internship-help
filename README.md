@@ -23,19 +23,19 @@ Medium cost-of-living cities are great for affordable housing and potentially hi
 I’m personally unfamiliar with tech scenes in these kinds of cities.
 # Finding Your Interests
 Within tech, there are lots of different fields that require software engineers. I'll give you a list of some of the most popular positions and a brief description of what they do. Look more into each position and decide for yourself if you want to pursue these fields.
-### Frontend
+#### Frontend
 Frontend development focuses on implementing the look of a website and the mechanisms that allow the user to interact with the website. Frontend developers create the look of a website.
-### Backend
+#### Backend
 Backend development is a blanket term for software fields that aren't visible to the user. This includes network engineering, software infrastructure, OS development, and more. Backend development is also not entirely restricted to supporting websites.
-### Fullstack
+#### Fullstack
 Full stack developers work with both the frontend and backend of a product. Thus, they need to be familiar with how the two fields interact and integrate.
-### DevOps
+#### DevOps
 Developer operation engineers help build the pipelines and production environments that make it possible for software developers to push out features on multiple platforms. These positions offer less opportunity to code.
-### AI
+#### AI
 Artificial Intelligence is a field that focuses on equipping technology with humanistic learning. Fields like natural language processing and machine learning come from AI and have helped with technologies like self driving cars, Siri, and smart home devices.
-### Data Science
+#### Data Science
 This field focuses on analyzing data to develop useful conclusions. Data science can oftentimes work with mind-boggling sets of data, both structured and unstructured.
-### UX/UI
+#### UX/UI
 User experience and user interaction is a field that focuses on human and technology interactions. UX/UI wants to develop the best customer experience by studying the best techniques for user interactions.
 # Application Process
 Whether you've found the path you want to pursue or are still unsure, knowing how the application process works for the tech industry can allow you to prepare wisely. 
@@ -47,27 +47,37 @@ A big question you may ask yourself is where do I even apply. Sure, you could lo
 - **Handshake** - Handshake markets themselves as a job board entirely dedicated to students. While growing, the company has gathered an impressive number of job postings.
 - **Jumpstart** - Jumpstart is a similar platform to Handshake but offers a student forum feature all on the same website. The forums are a space for students to post questions and engage in conversation with other tech students. Jumpstart even has a section for virtual career webinars.
 ## How it Works
-Let's review how the application process typically works. You, the applicant, submit an application to the company for it to be reviewed. If the company likes your application, they will invite you to interview. We'll take a closer look at interviews in a later section. If all goes well, the company will reach out to you with their offer to join the company! In this section, I want to focus on how your application is reviewed.
+Let's review how the application process typically works. You, the applicant, submit an application to the company for it to be reviewed. If the company likes your application, they will invite you to interview. We'll take a closer look at interviews in a later section. If all goes well, the company will reach out to you with their offer to join the company! In this section, I want to focus on two common ways your application is reviewed.
 ### ATS
+ATS stands for Applicant Tracking System. An ATS helps make a recruiter's job easier by pre-filtering resumes before sending them to a human recruiter. These systems scan an applicants resume and look for keywords. If a resume has an acceptable number of keywords and skill sets, that resume moves on to be reviewed by a human recruiter. Thus, the wording in a resume or application can make a huge difference when moving along the application process. Just make sure you don't stuff your resume with keywords to the point where it's nonsensical. It's worth noting that ATS' do more than filter resumes but those extra features are logistical benefits to the recruiter that don't affect how your application is evaluated. 
 ### Human Reviewers
+While some companies use a combination of ATS and human reviewers, other companies solely use human reviewers. This works to your benefit because the reviewer has the opportunity to review your application regardless of the number of buzzwords on your resume.
 ##  Building a Resume
-
+We mentioned resumes in the previous section, now let's take a look at some topics that people are frequently curious about. To start off, be aware that experience in the industry goes above all else when applying to software engineering roles.
 ### GPA
-
+Unless you plan on going to grad schools, GPAs don't matter as much as you'd think they do. Companies evaluate a candidate based on their ability to do the job. While GPA offers a good look at how well a student can absorb knowledge, projects and experience are better indicators of how passionate a student is for building software. As such, most companies won't even ask for you GPA at any point along the application process. That being said, some companies do use GPA as a preliminary filter so staying above a 3.0 or 3.2 is a safe bet.
 ### Personal Projects
+Since this is a guide to landing an internship, I won't expect you to already have an internship under your belt. The next best thing? Personal projects. In this case, personal projects can refer to any research or fun applications you may have built. Adding a description of a sizable personal project allows your passion to shine through to recruiters. If you don't have any projects, don't fret! Now's a great time to start. Some great places to look: [First Timers Only](https://www.firsttimersonly.com/), [Happy Coding](https://happycoding.io/), and [Chingu](https://www.chingu.io/). 
 
+Looking up tutorials on YouTube is also a great way to figure out how things work. Searching phrases like ["How to build a chat app"](https://www.youtube.com/results?search_query=how+to+build+a+chat+app) can give you a step-by-step guide on building your first personal projects. Once you've followed enough tutorials you'll be ready to take your skills and create something on your own. 
 ### Cold Emails
-
+A cold email is an email that's sent to a recruiter that you don't know. Done right, these can be an effective way to get your foot in the door at a company. [Nick Singh](https://www.linkedin.com/in/nipun-singh/) shared with me [this](https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/fb9665b4-5a23-4d17-ab6e-64287cb66ad8/Cold_Email_Tips_To_Land_Your_Dream_Job.pdf) guide to sending cold emails. I've seen cold emails go a long way for other students trying to get into their dream company. Don't be scared to send these emails. At the worst, you'll receive a rejection via email. At best, you've got your foot in the door and can being interviewing!
 ### Digital Presence
-
+Digital presence is centered around how easily accessible you and your accomplishments are on the internet. When people search your name, a digital presence makes it easier for someone to get to know you. Various platforms can be great for providing more information on who you are. For example, I use [LinkedIn](https://www.linkedin.com/in/erick-dolores/) to make my background and experience more available to the public. Recruiters can find out where I attend school, where I've worked, and what my objectives are. [Personal websites](http://www.erickdolores.com.s3-website-us-east-1.amazonaws.com/) are also great for professional and personal reasons. While they may not be a deal breaker for recruiters, a personal website can offer an intimate/personal perspective on who you are as a person. Therefore, websites cam expand your network by allowing users to reach out to you if they liked what they saw on your site. [Github](https://github.com/edolores)
+is a code hosting service that allows recruiters to actually dive into your code and see physical proof of your passion. Github accounts are always a plus because they provide insight into how you write code. 
 ### Cover Letters
+Unless you're applying for a financial firm or old-fashioned company, cover letters aren't a necessity. Recruiters have to sift through thousands of resumes and applications to fill up only a couple of spots. Cover letters create more work for a recruiter and aren't always appreciated. It's best to focus on your resume and insure that it effectively communicates your interests and your skill set.
+### Getting Started
+Latex template, reddit forum [https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/c3839b1d-e372-4b2c-a57c-f2a7410589f7/36_Software_Engineering_Resume_Tips.pdf](https://gallery.mailchimp.com/11fa1ee9c20a64044db2d61ba/files/c3839b1d-e372-4b2c-a57c-f2a7410589f7/36_Software_Engineering_Resume_Tips.pdf)
 # Interviewing
 The number of interviews and their contents varies from company to company. Interviews may require you to solve coding questions within an hour-long timeframe. Others will be entirely behavioral or will have you complete an application beforehand. Sometimes the company will pay for you to fly out to a new city to interview in-person! Here are the two main categories for interviewing.
 ## Behavioral
 ## Technical
-
+ctci, interviewing.io, leetcode 
 # Freshman and Sophomores
 ### Programs
+uber, google, facebook, ea, code2040, new technologists
 ### Internships
 # Facing Rejections
 # Communities to Join
+cscareeerquestions, jumpstart, csmajors
