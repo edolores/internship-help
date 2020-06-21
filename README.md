@@ -97,17 +97,16 @@ If you're a freshman or sophomore, here are some programs and internships that a
 - **UberSTAR** - This is Uber's internship meant for freshman and sophomores.
 - **Facebook University** - Facebook's internship program for freshman and sophomores. Note: You'll need a high school transcript for the application.
 - **EA Pathfinders** - Electronic Arts' freshman and sophomore internship program. You can typically be a part of this program by applying to EA's regular internship and being redirected to a Pathfinders position.
-# FACING REJECTIONS
+# Facing Rejections
 A substantial portion of landing an internship is luck, despite how prepared you are. Knowing this, you should maximize your luck by applying to as many internships as you can. During my freshman year, I submitted ~110 applications and got lucky landing my first internship with Electronic Arts. That year, I only heard back from 3 companies. My sophomore year, I applied to ~200 companies, heard back from 21 companies, and landed 2 offers. While these numbers are scary, I didn’t have the knowledge to perfect my applications and resume prior to applying to all of those internships. Using the advice I laid out, you’ll have better luck than I did. Regardless, you will face multiple rejections so make sure you don’t get discouraged by any of them :smile:!
-# SITES TO VISIT
+# Sites to Visit
 Here’s some online communities you can hang out that can give you some insight into what other students are doing and the current climate of the tech industry.
 -   **r/cscareerquestions** - [A subreddit](https://www.reddit.com/r/cscareerquestions/) where engineers/students talk about their experiences and advice for tech careers.
 -   **r/csmajors** - [A subreddit](https://www.reddit.com/r/csMajors/) where mostly students hang out to ask questions about CS in college and landing a job.
 -   **Jumpstart** - [A student-based forum](https://jumpstart.me/) where discussion takes place regarding the tech industry.
 -   **Glassdoor** - [A website](https://www.glassdoor.com/index.htm) that posts specific salary info and interview questions for different companies.
 -   **Levels.fyi** - [A website](https://www.levels.fyi/) that provides info on position-specific salaries for various companies.
-# FINAL ADVICE
-
+# Final Advice
 In the future, I’ll reintroduce the below advice as part of the sections above.
 
 - Make sure to sign up for LinkedIn! Connect with as many recruiters, students, and engineers as you can. If you have the right connections, LinkedIn does a great job of sharing information and advice on internships and the tech industry. Additionally, the more active you are on LinkedIn, the higher you are on recruiter searches for new candidates!
